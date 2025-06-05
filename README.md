@@ -1,5 +1,5 @@
-vichex-homepage
-===
+vichex-landing-page
+===================
 
 Website at https://vichex.ca
 
