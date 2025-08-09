@@ -1,7 +1,7 @@
-vichex-landing-page
-===================
+islandhex-landing-page
+======================
 
-Website at https://vichex.ca
+Website at https://islandhex.ca
 
 ## License
 
